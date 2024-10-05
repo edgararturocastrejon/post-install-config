@@ -79,34 +79,63 @@ Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+![Screen Shot 2024-10-05 at 10 25 25 AM](https://github.com/user-attachments/assets/be007544-93d2-4552-8f92-7cf22eac9403)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Allow anyone to create tickets <p/>
+Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) <p/>
+Registration Required: Require registration and login to create tickets 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+![Screen Shot 2024-10-05 at 10 32 00 AM](https://github.com/user-attachments/assets/202b2a4c-c7e1-44f5-ba56-590141cced7f)
+![Screen Shot 2024-10-05 at 10 41 15 AM](https://github.com/user-attachments/assets/95b3e5cd-b43c-4d2a-8584-5c80be661fea)
+![Screen Shot 2024-10-05 at 10 37 49 AM](https://github.com/user-attachments/assets/567a9331-b18c-4f5b-8deb-cf57cbe4111a)
+![Screen Shot 2024-10-05 at 10 42 55 AM](https://github.com/user-attachments/assets/6164c3d8-38c3-477e-8802-5a618b5b8143)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Agents (workers) <p/>
+Admin Panel -> Agents -> Add New <p/>
+Jane (Dept: SysAdmins) <p/>
+John (Dept: Support)
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+![Screen Shot 2024-10-05 at 10 47 42 AM](https://github.com/user-attachments/assets/a317d6f0-9f2d-4fc4-b62b-2c123334313d)
+![Screen Shot 2024-10-05 at 10 51 07 AM](https://github.com/user-attachments/assets/342a259a-8424-40c6-857c-09c78a8018de)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Users (customers) In Agent Panel! <p/>
+Agent Panel -> Users -> Add New <p/>
+Karen <p/>
+Ken
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+![Screen Shot 2024-10-05 at 10 57 17 AM](https://github.com/user-attachments/assets/ee948435-847b-4564-943b-e6ae09bce1ea)
+![Screen Shot 2024-10-05 at 10 57 44 AM](https://github.com/user-attachments/assets/52d01cf9-77db-442b-8900-8390ca755629)
+![Screen Shot 2024-10-05 at 10 58 12 AM](https://github.com/user-attachments/assets/61d667f3-c04e-4696-8ac5-2f526b5ae92e)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure SLA (Go back to Admin Panel) <p/>
+Admin Panel -> Manage -> SLA <p/>
+Sev-A (Grace Period: 1 hour, Schedule: 24/7) <p/>
+Sev-B (Grace Period: 4 hours, Schedule: 24/7) <p/>
+Sev-C (Grace Period: 8 hours, Business Hours)
+
 </p>
 <br />
 
