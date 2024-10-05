@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 <p> This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. <p/>
- This is a continuation of the https://github.com/edgararturocastrejon/osticket-prereqs project. 
+ This is a continuation of the <a href= "https://github.com/edgararturocastrejon/osticket-prereqs">osTicket: Prerequisites and Installation <a/> project. 
 
 
 <h2>Environments and Technologies Used</h2>
@@ -37,7 +37,7 @@
 
 </p>
 <p>
-1) Login to the Admin/Analyst login page: http://localhost/osTicket/scp/login.php in the Virtual Machine VM) </p>
+1) Login to the Admin/Analyst login page: <a href= "http://localhost/osTicket/scp/login.php"> http://localhost/osTicket/scp/login.php<a/> in the Virtual Machine VM) </p>
 Acknowledge Agent Panel vs Admin Panel on the top right corner
 </p>
 <br />
