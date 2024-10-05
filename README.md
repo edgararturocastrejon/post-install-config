@@ -141,7 +141,11 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 
 <p>
  
-
+![Screen Shot 2024-10-05 at 11 03 50 AM](https://github.com/user-attachments/assets/586faba4-73af-4d5d-b6b2-b27ef0b5f84e)
+![Screen Shot 2024-10-05 at 12 23 16 PM](https://github.com/user-attachments/assets/dd5a38fc-178e-457a-9a9c-f95971a846ce)
+![Screen Shot 2024-10-05 at 12 24 18 PM](https://github.com/user-attachments/assets/d17b7bc8-f596-4451-a3b8-b7a752ddcc9f)
+![Screen Shot 2024-10-05 at 12 25 20 PM](https://github.com/user-attachments/assets/3b7cc004-0aca-4db2-a64f-797778aea514)
+![Screen Shot 2024-10-05 at 12 26 01 PM](https://github.com/user-attachments/assets/ec96ae61-bafa-4570-a5cd-45de670d26ed)
 
 </p>
 <p>
