@@ -4,13 +4,13 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 <p> This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. <p/>
-  This is a continuation of the [https://github.com/edgararturocastrejon/osticket-prereqs] (osTicket: Prerequisites and Installation) project. osTicket: Prerequisites and Installation <br />
+ This is a continuation of the [https://github.com/edgararturocastrejon/osticket-prereqs] project. 
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -34,7 +34,7 @@
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1) Login to the Admin/Analyst login page: [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php) in the Virtual Machine VM)
 </p>
 <br />
 
