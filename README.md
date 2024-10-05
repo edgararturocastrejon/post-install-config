@@ -52,7 +52,7 @@ Acknowledge Agent Panel vs Admin Panel on the top right corner
 <p>
 Configure Roles (for grouping permissions) <p/>
 Admin Panel -> Agents -> Roles <p/>
-Give Supreme complete access under "Permissions" check all the check marks in "Tickets" "Task" and "knowledgebase"
+Give Supreme Admin complete access under "Permissions" check all the check marks in "Tickets" "Task" and "knowledgebase"
 </p>
 <br />
 
