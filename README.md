@@ -65,7 +65,8 @@ Give Supreme Admin complete access under "Permissions" check all the check marks
 <p>
 Configure Departments <p/> 
 Admin Panel -> Agents -> Departments <p/>
- Set SysAdmins Department to a Top Level Department
+ Set SysAdmins Department to a Top Level Department <p/>
+  DELETE the Maintenance Department (not archive)
 </p>
 <br />
 
