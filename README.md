@@ -64,7 +64,8 @@ Give Supreme Admin complete access under "Permissions" check all the check marks
 </p>
 <p>
 Configure Departments <p/> 
-Admin Panel -> Agents -> Departments
+Admin Panel -> Agents -> Departments <p/>
+ Set SysAdmins Department to a Top Level Department
 </p>
 <br />
 
