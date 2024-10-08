@@ -60,6 +60,7 @@ Give Supreme Admin complete access under "Permissions" check all the check marks
  
 ![Screen Shot 2024-10-05 at 10 13 48 AM](https://github.com/user-attachments/assets/3ab886f2-07c1-43e6-922e-e83dc776fb7a)
 ![Screen Shot 2024-10-05 at 10 13 59 AM](https://github.com/user-attachments/assets/5272e7e3-7e39-4dcc-93e0-88efa6d6b358)
+![Screen Shot 2024-10-07 at 6 05 42 PM](https://github.com/user-attachments/assets/7708951c-0cb3-4538-8732-80928dd60349)
 
 </p>
 <p>
