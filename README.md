@@ -37,7 +37,7 @@
 
 </p>
 <p>
-Login to the Admin/Analyst login page: <a href= "http://localhost/osTicket/scp/login.php"> http://localhost/osTicket/scp/login.php<a/> in the Virtual Machine VM) </p>
+Login to the Admin/Analyst login page: <a href= "http://localhost/osTicket/scp/login.php"> http://localhost/osTicket/scp/login.php<a/> in the Virtual Machine (VM) </p>
 Acknowledge Agent Panel vs Admin Panel on the top right corner
 </p>
 <br />
